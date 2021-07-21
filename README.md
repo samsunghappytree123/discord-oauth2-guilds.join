@@ -1,7 +1,7 @@
 # discord-oauth-guilds.join
 Discord Oauth2의 "Guilds.join" Scope를 활용한 코드입니다.
 
-## １ 사용법
+## 사용법
 1. 이 코드를 clone 또는 fork 등으로 다운로드합니다.
 2. cmd에 ``pip install -r "requirements.txt"``를 사용해 필요한 모듈을 설치합니다.
 3. [``.env.example``](.env.example) 파일을 참고하여 ``.env`` 파일을, [``config.py.example``](config.py.example)을 참고하여 ``config.py``를 만들어주세요. (자세한 사항은 [여기](#envexample과-configpyexample-내용-설명)을 확인해주세요.)
@@ -9,7 +9,7 @@ Discord Oauth2의 "Guilds.join" Scope를 활용한 코드입니다.
 
 ---
 
-## ２ .env.example과 config.py.example 내용 설명
+## .env.example과 config.py.example 내용 설명
 
 ### .env.example
 ```py
