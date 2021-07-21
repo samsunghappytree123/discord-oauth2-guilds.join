@@ -1,0 +1,3 @@
+python-dotenv
+sanic
+requests_oauthlib

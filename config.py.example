@@ -1,0 +1,7 @@
+GUILD_ID = 123456789 # 강제 초대할 서버의 ID를 입력하세요.
+CLIENT_ID = 123456789 # CLIENT ID (BOT ID)를 입력해주세요.
+REDIRECT_URI = 'http://localhost:5000/callback' # OAUTH 로그인 후 이동할 웹사이트의 주소를 입력하세요.
+
+# -- Sanic 호스트 설정 -- #
+HOST = '127.0.0.1' # 127.0.0.1과 같이 수정해주세요.
+PORT = 5000 # 포트를 지정해주세요.
