@@ -26,7 +26,7 @@ def make_session(token=None, state=None, scope=None):
         token=token,
         state=state,
         scope=scope,
-        redirect_uri=config.REDIRECT_URL,
+        redirect_uri=config.REDIRECT_URI,
         auto_refresh_kwargs={
             "client_id": config.CLIENT_ID,
             "client_secret": app.config["SECRET_KEY"],
