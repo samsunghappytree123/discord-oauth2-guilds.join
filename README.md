@@ -1,6 +1,9 @@
 # discord-oauth-guilds.join
 Discord Oauth2의 "Guilds.join" Scope를 활용한 코드입니다.
 
+## 공지사항
++ 사용시 스타 한번씩 눌러주시면 감사하겠습니다 :)
+
 ## 사용법
 1. 이 코드를 clone(`git clone https://github.com/samsunghappytree123/discord-oauth2-guilds.join`) 또는 fork 등으로 다운로드합니다. 
 2. cmd에 ``pip install -r "requirements.txt"``를 사용해 필수적으로 설치해야 하는 의존성 모듈을 설치합니다.
